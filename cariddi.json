@@ -1,0 +1,4 @@
+[{
+    "command":"cat input | /usr/bin/cariddi -s -e -ext 1 -info -intensive -rua -plain -ot output | tee output",
+    "ext":""
+}]

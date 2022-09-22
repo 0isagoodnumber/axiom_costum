@@ -1,0 +1,5 @@
+[{
+"command":"echo _target_ | /home/op/go/bin/subfinder -silent -d _target_ -o _output_/_target_ -all",
+"ext":"txt",                             
+"threads":"3"
+}]

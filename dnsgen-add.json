@@ -1,0 +1,4 @@
+[{
+    "command":"cat input | dnsgen - -w _wordlist_ | tee output",
+    "ext":"txt"
+}]
